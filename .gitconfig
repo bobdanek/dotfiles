@@ -1,0 +1,7 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+	name = Bob Danek
+	email = robert.e.danek@gmail.com
+[core]
+	excludesfile = /Users/noxy/.gitignore_global
