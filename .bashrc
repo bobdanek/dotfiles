@@ -2,7 +2,7 @@
 [[ $- = *i* ]] && source ~/liquidprompt/liquidprompt
 
 # Set up 'config' alias for dotfiles git repo
-alias config='/usr/bin/git --git-dir=/Users/noxy/.cfg/ --work-tree=/Users/noxy'
+alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
 
 source ~/.bash_completion/alacritty
 source ~/.bash_profile
