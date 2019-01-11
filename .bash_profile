@@ -10,5 +10,3 @@ alias e='emacsclient -t'
 
 # Set up 'config' alias for dotfiles git repo
 alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
-
-source ~/.bash_completion/alacritty
